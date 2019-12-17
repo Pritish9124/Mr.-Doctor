@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Mr. Doctor</string>
+    <!-- activity_login -->
+    <string name="login_title">Login Now</string>
+    <string name="login_hint_email">Email</string>
+    <string name="login_hint_password">Password</string>
+    <string name="login_buttonlogin">Log in</string>
+    <string name="login_button_forgot">Forgot password?</string>
+    <string name="login_orText"> --- OR --- </string>
+    <string name="login_button_register">Register</string>
+    <string name="login_dialog_forgot_title">Type your email address</string>
+    <string name="login_dialog_forgot_ok">OK</string>
+    <string name="login_dialog_forgot_close">Close</string>
+    <string name="login_snackbar_password_short">Password cannot be empty</string>
+    <string name="login_snackbar_email_error">Email is not valid</string>
+    <string name="login_snackbar_email_short">Email cannot be empty</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <!-- activity registration -->
+    <string name="registration_title">Registration</string>
+    <string name="registration_hint_email">Email</string>
+    <string name="registration_hint_confirm">Confirm Password</string>
+    <string name="registration_button_register">Register</string>
+    <string name="registration_text_login">Already have an account?</string>
+    <string name="registration_button_login">Login Now</string>
+    <string name="registration_dialog_title">Welcome</string>
+    <string name="registration_dialog_text">Verify your email by clicking the link we sent you to your inbox</string>
+    <string name="registration_dialog_positive">Close</string>
+    <string name="registration_snackbar_password_short">Password must be longer than 8 character</string>
+    <string name="registration_snackbar_password_error">Password doesn\'t match</string>
+    <string name="registration_snackbar_email_short">Email cannot be empty</string>
+    <string name="registration_snackbar_email_error">Email is not valid</string>
+    <string name="app_slug" />
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Sign Out</string>
+    <string name="title_activity_tabed">Tabed</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_tabs">Tabs</string>
+    <string name="tab_text_1">Doctors</string>
+    <string name="tab_text_2">Chats</string>
+    <string name="tab_text_3">Tab 3</string>
+</resources>
